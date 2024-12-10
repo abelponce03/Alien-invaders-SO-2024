@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ncurses.h": "c",
+        "stdlib.h": "c",
+        "sdl_mixer.h": "c",
+        "time.h": "c"
+    }
+}
